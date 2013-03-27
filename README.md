@@ -1,4 +1,6 @@
 BlongoTest
 ==========
 
-A Test Repo for my first time on GitHub
+Hello World!
+Hello GitHub!
+This is a test Repo for my first time on GitHub
